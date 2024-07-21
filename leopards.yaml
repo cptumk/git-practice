@@ -2,6 +2,8 @@ team : Leopards.yaml
 
 manager : Nora
 
+coach : Oscar
+
 members :
 - Linda
 - William
